@@ -12,13 +12,13 @@
 - 🧑‍🎓 I’m always learning more about React and Vue
 - 🥅 2021 Goals: Survive the pandemic and Contribute more to Open Source projects
 - ⚽ Fun fact: I love football (the real football)
-
+<br>
 ### Connect with me:
 
 [<img align="left" alt="prtofolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="diego ribeiro | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="diego ribeiro | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+<br>
 
 ### Languages and Tools:
 
