@@ -9,7 +9,7 @@
 ## I'm a Developer, Engineer, and Gamer enthusiast!!
 
 - 🧑‍🚀 I'm currently working @engineering.com as a Full Stack Developer!
-- 🧑‍🎓 I’m currently(always) learning React
+- 🧑‍🎓 I’m always learning more about React and Vue
 - 🥅 2021 Goals: Survive the pandemic and Contribute more to Open Source projects
 - ⚽ Fun fact: I love football (the real football)
 
